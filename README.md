@@ -1,1 +1,1 @@
-# PorousDomainGmsh
+This is a python code for Gmsh to create a step file of a porous domain of randomly distributed pores with varying diameters. The step file can further be imported to abaqus to create a Finite Element Simulation.
